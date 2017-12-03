@@ -2,6 +2,7 @@
 
 Extracts the URL and cover image of the latest Ubyssey print issue from [The Ubyssey's ISSUU page](https://issuu.com/ubyssey).
 
+Currently only prints the links to console.
 
 ## Usage
 
