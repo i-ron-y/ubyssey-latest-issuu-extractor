@@ -38,6 +38,7 @@ Install the required packages:
 ````
 pip install requests
 pip install BeautifulSoup4
+pip install lxml
 ````
 
 Go to the directory where `ubyssey-latest-issuu-extractor-rss.py` is located.
