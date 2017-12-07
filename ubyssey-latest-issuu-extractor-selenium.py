@@ -3,6 +3,8 @@ from selenium.webdriver import Firefox
 from selenium.webdriver.support.ui import WebDriverWait
 from bs4 import BeautifulSoup
 
+# Extracts latest Ubyssey issue's URL and cover image from the Ubyssey ISSUU page using Selenium WebDriver.
+
 url = 'https://issuu.com/ubyssey/'
 
 with closing(Firefox()) as browser:
